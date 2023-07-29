@@ -1,4 +1,2 @@
 # Spotify-project
-
-![Capture](https://github.com/vijaykrishnachilukuri/Spotify-project/assets/113658868/dbe1d0de-fd86-47d8-8509-5405a4df32ae)
-
+![Capture](https://github.com/vijaykrishnachilukuri/Spotify-project/assets/113658868/7eec3e09-edfd-468c-b53f-84b29fde5e8a)
